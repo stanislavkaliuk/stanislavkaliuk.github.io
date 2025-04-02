@@ -1,11 +1,12 @@
-## Contacts
-- **Date of birth:** 31.08.1996  
-- **Location:** Lviv  
-- **Skype:** stas.kaluk  
-- **Phone:** +380971460529  
-- **Email:** [staskalyuk.096@gmail.com](mailto:staskalyuk.096@gmail.com)  
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/stanislav-kaliuk-5a1028132)
 
+- [Education](#education)
+- [Courses and Certifications](#courses-and-certifications)
+- [Work Experience](#work-experience)
+- [Additional Projects](#additional-projects)
+- [Embedded](#embedded-systems)
+- [Hard Skills](#hard-skills)
+- [Soft Skills](#soft-skills)
+- [Contacts](#contacts)
 ---
 
 ## Education
@@ -16,7 +17,7 @@
 ---
 
 ## Courses and Certifications
-- **Unity Certified Developer (2017-2019)**  
+### Unity Certified Developer
   - Certification ID: 201704UCD1908  
 
 ---
@@ -39,11 +40,15 @@
 - Working with native image capturing using compute shaders and graphics resource management  
 - Implementing network-based business logic 
 - CI/CD pipelines support using Jenkins and Declarative Jenkins Pipelines
+- Integrating native libraries into popular game engines:
+  - Unity
+  - Unreal
+  - Cocos2dx
+  - Godot  
 - Project Quality control:
   - Appium for Integration and Regression tests
   - Doctest and Catch2 for Unit testing
   - Catch2 and Nanobench for Performance testing
-- Integrating native libraries into popular game engines (Unity, Unreal, Cocos2dx, Godot)  
 ---
 
 **Project:** [Adverty](https://adverty.com/)  
@@ -130,6 +135,33 @@
 
 ---
 
+## Embedded Systems
+**Devices:**
+- Arduino (AVR8)
+- STM32
+- ESP32
+- PSoc4
+  
+**Skills:**
+- GPIO
+- Timers
+- Interrupts
+- SWD Debugging
+
+**Communication Protocols:**
+- I2C
+- SPI
+- UART/USART
+- CAN
+- ADC/DAC
+
+### PCB Design
+- KiCad
+- EasyEDA
+- Proteus (Schematic + PCB + Simulation)  
+
+---
+
 ## Hard Skills
 ### Platform Development
 - Windows
@@ -164,32 +196,7 @@
 - PSoc Creator
 
 ### CI/CD
-- Jenkins  
-
-### Embedded Systems
-**Devices:**
-- Arduino (AVR8)
-- STM32
-- ESP32
-- PSoc4
-  
-**Skills:**
-- GPIO
-- Timers
-- Interrupts
-- SWD Debugging
-
-**Communication Protocols:**
-- I2C
-- SPI
-- UART/USART
-- CAN
-- ADC/DAC
-
-### PCB Design
-- KiCad
-- EasyEDA
-- Proteus (Schematic + PCB + Simulation)  
+- Jenkins
 
 ---
 
@@ -212,3 +219,10 @@
 - Enjoys working with highly professional colleagues & sharing knowledge  
 
 ---
+
+## Contacts
+- **Date of birth:** 31.08.1996  
+- **Location:** Lviv  
+- **Phone:** +380971460529  
+- **Email:** [staskalyuk.096@gmail.com](mailto:staskalyuk.096@gmail.com)  
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/stanislav-kaliuk-5a1028132)
