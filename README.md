@@ -7,6 +7,7 @@
 - [Hard Skills](#hard-skills)
 - [Soft Skills](#soft-skills)
 - [Contacts](#contacts)
+
 ---
 
 ## Education
